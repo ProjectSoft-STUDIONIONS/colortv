@@ -4,9 +4,11 @@
  * Select Color
  *
  * @category        tv
+ * @version			1.0.0
+ * @author			ProjectSoft (projectsoft2009@yandex.ru) 
  * @name            color
  * @internal        @caption Select Color
- * @internal        @input_type colortv
+ * @internal        @input_type custom_tv:colortv
  * @internal        @input_options
  * @internal        @input_default #ff0000
  * @internal        @output_widget 
